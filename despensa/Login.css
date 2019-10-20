@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    font-family: 'Raleway Regular', arial;
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+}
+body {
+    background-color: #344A72;
+}
+
+.login-box {
+    position: relative;
+    margin: 5% auto;
+    height: 500px;
+    width: 350px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+    margin-bottom: 0px;
+    margin-top: 80px;
+    padding-top: 20px;
+
+}
+
+input[type=text], 
+    input[type=password],
+    input[type=email] { 
+        color: #777;
+        padding-left: 10px;
+        margin: 10px;
+        margin-top: 12px;
+        margin-left: 18px;
+        width: 260px;
+        height: 35px;
+    } 
+
+    input[type=submit] {
+        color: #777;
+        padding-left: 10px;
+        margin: 10px;
+        margin-top: 12px;
+        margin-left: 18px;
+        width: 280px;
+        height: 35px;
+        background-color: #49C1A2;
+        color: white;
+    } 
+
+    .boton {
+        text-decoration: none;
+        color: #777;
+        padding-left: 10px;
+        margin: 10px;
+        margin-top: 12px;
+        margin-left: 18px;
+        width: 280px;
+        height: 35px;
+        background-color: #49C1A2;
+        color: white;
+    }
+    
+
+    label {
+        color: #555;
+        display: inline-block;
+        margin-left: 18px;
+        padding-top: 10px;
+        font-size: 14px
+    }
+
+    .texto1 {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .texto2 {
+        text-align: center;
+        font-size: 18px;
+
+        color: white;
+        vertical-align: text-top;
+    }
+
+    .span2 {
+        color: #49C1A2;
+    }
+
+    .colorAzul {
+        color:blue;
+    }
+    

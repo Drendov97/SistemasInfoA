@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    font-family: 'Raleway Regular', arial;
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+}
+body {
+    background-color: #00818a;
+}
+.main-block {
+    position: relative;
+    margin: 5% auto;
+    height: 500px;
+    width: 450px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+    margin-bottom: 0px;
+    margin-top: 80px;
+    padding-top: 20px;
+
+}
+
+
+label {
+    color: #555;
+    display: inline-block;
+    margin-left: 18px;
+    padding-top: 10px;
+    font-size: 14px
+}
+
+input[type=email] { 
+    color: #777;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 12px;
+    margin-left: 18px;
+    width: 260px;
+    height: 35px;
+} 
+
+input[type=agregar] {
+    color: #777;
+    text-align: center;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 12px;
+    margin-left: 80px;
+    width: 260px;
+    height: 35px;
+    background-color: #49C1A2;
+    color: white;
+} 
+input[type=eliminar] {
+    color: #777;
+    text-align: center;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 12px;
+    margin-left: 80px;
+    width: 260px;
+    height: 35px;
+    background-color: #49C1A2;
+    color: white;
+}
